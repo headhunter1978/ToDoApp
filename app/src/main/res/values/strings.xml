@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ToDoApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_register">Register</string>
+
+    //Buttons
+
+    <string name="btn_Add">+</string>
+    <string name="btn_Clear_All_Tasks">Clear All Tasks</string>
+    <string name="btn_back">Back</string>
+
+    //TextView
+
+    <string name="textTask">Task</string>
+    <string name="textId">id</string>
+    <string name="textDate">Date</string>
+
+
+
+</resources>
